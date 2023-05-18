@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Github Status
-![Macrena's github stats](https://github-readme-stats.vercel.app/api?username=macrena&count_private=true&bg_color=0,3E5151,ffca8d&title_color=fff&text_color=fff)
+![Macrena's github stats](https://github-readme-stats.vercel.app/api?username=macrena&count_private=true&show_icons=true&theme=tokyonight)
